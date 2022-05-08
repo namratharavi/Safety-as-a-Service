@@ -1,0 +1,21 @@
+#app.yaml
+runtime: python39
+
+#setting up environment variables
+env_variables:
+  CLOUD_SQL_USERNAME: 'root'
+  CLOUD_SQL_PASSWORD: 'root'
+  CLOUD_SQL_DATABASE_NAME: 'test'
+  CLOUD_SQL_CONNECTION_NAME: 'ccprojectaan:us-west4:mysqldb'
+
+#setting up autoscaling parameters
+automatic_scaling:
+  target_cpu_utilization: 0.50
+  min_instances: 1
+  max_instances: 10
+  max_pending_latency: 10ms
+  max_concurrent_requests: 2
+  target_throughput_utilization: 0.5
+
+inbound_services:
+  - warmup
