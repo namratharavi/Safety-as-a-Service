@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cloud Project</string>
+    <string name="title">Security as a Service</string>
+    <string name="trackButton">Track Me</string>
+    <string name="sosButton">SOS</string>
+    <string name="mapButton">Open Map</string>
+    <string name="loginButton">Login</string>
+    <string name="signUpnButton">Sign Up</string>
+    <string name="settingsButtonDesc">settings</string>
+    <string name="contactsTitle">Emergency Contacts</string>
+    <string name="contact1">Emergency Contact 1</string>
+    <string name="contact2">Emergency Contact 2</string>
+    <string name="name">Name:</string>
+    <string name="number">Phone Number:</string>
+    <string name="nameHint"> Name</string>
+    <string name="passwordHint">Password</string>
+    <string name="numberHint"> Phone Number</string>
+    <string name="SOSSettings">SOS Settings</string>
+    <string name="SOS911">Notify 911</string>
+    <string name="SOSCloseBy">Notify close by users</string>
+    <string name="helpCloseBy">Help close by users</string>
+</resources>

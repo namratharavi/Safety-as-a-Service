@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="contact1Number" type="id" />
+    <item name="contact1NumberInput" type="id" />
+    <item name="contact2" type="id" />
+    <item name="contact2Name" type="id" />
+    <item name="contact2NameInput" type="id" />
+</resources>
