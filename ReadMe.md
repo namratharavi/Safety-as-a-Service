@@ -9,8 +9,8 @@ Further, using our application the user can opt to be tracked before starting th
 Even though there are applications both on web and mobile platforms which provide these features, there is no one application which combines both together. Combining these two parallel features helps the users immensely more than using the features independently. This is the main aim of the application.
 
 Technology Stack - 
-> Android Application developed using Java
-> Google APIs for location services
-> Backend hosted on Google cloud platform
-> Backend flask application coded in Python3
-> Preprocessing (maintenance) code in Python to create the static crime map
+- Android Application developed using Java
+- Google APIs for location services
+- Backend hosted on Google cloud platform
+- Backend flask application coded in Python3
+- Preprocessing (maintenance) code in Python to create the static crime map
